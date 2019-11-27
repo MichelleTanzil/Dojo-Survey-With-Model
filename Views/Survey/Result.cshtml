@@ -1,0 +1,12 @@
+@model Survey
+
+<div id="info">
+  <h1 class="text-center mt-3 mb-3">Submitted Info</h1>
+  <p>Name: @Model.FullName</p>
+  <p>Dojo Location: @Model.Location</p>
+  <p>Favorite Language: @Model.Language</p>
+  <p>Comment: @Model.Comment</p>
+<form action="/">
+  <button type="submit" class="btn btn-primary">Go Back</button>
+</form>
+</div>
