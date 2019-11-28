@@ -2971,13 +2971,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\MTanzil\\Documents\\CodingDojo\\csharp_stack\\asp.net_core\\asp_mvc_two\\dojo_survey_with_model\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Users\\MTanzil\\Documents\\CodingDojo\\csharp_stack\\asp.net_core\\asp_mvc_two\\dojo_survey_with_model\\Views\\Survey\\Result.cshtml",
+      "TargetPath": "Views\\Survey\\Result.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\MTanzil\\Documents\\CodingDojo\\csharp_stack\\asp.net_core\\asp_mvc_two\\dojo_survey_with_model\\Views\\Survey\\Result.cshtml",
-      "TargetPath": "Views\\Survey\\Result.cshtml",
+      "FilePath": "c:\\Users\\MTanzil\\Documents\\CodingDojo\\csharp_stack\\asp.net_core\\asp_mvc_two\\dojo_survey_with_model\\Views\\Survey\\Index.cshtml",
+      "TargetPath": "Views\\Survey\\Index.cshtml",
       "FileKind": "mvc"
     },
     {

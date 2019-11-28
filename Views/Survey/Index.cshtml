@@ -1,15 +1,15 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
-}
+﻿  @model Survey
+
   <h1 class="text-center mt-3 mb-3">Dojo Survey</h1>
-  <form action="/process" method="POST">
+  <form asp-action="Process" asp-Controller="Survey" method="post">
     <div class="form-group">
-      <label for="FullName">Your Name: </label>
-      <input type="text" class="form-control" name="FullName">
+      <label asp-for="FullName">Your Name: </label>
+      <input class="form-control" asp-for="FullName">
+      <span class="text-danger" asp-validation-for="FullName"></span>
     </div>
     <div class="form-group">
-      <label for="Location">Dojo Location: </label>
-      <select class="form-control" name="Location">
+      <label asp-for="Location">Dojo Location: </label>
+      <select class="form-control" asp-for="Location">
         <option value="San Jose">San Jose</option>
         <option value="Seattle">Seattle</option>
         <option value="Los Angeles">Los Angeles</option>
@@ -21,10 +21,11 @@
         <option value="Boise">Boise</option>
         <option value="Orange County">Orange County</option>
       </select>
+      <span class="text-danger" asp-validation-for="Location"></span>
     </div>
     <div class="form-group">
-      <label for="Language">Dojo Location: </label>
-      <select name="Language" class="form-control">
+      <label asp-for="Language">Dojo Location: </label>
+      <select asp-for="Language" class="form-control">
         <option value="HTML">HTML</option>
         <option value="CSS">CSS</option>
         <option value="JavaScript">JavaScript</option>
@@ -34,11 +35,13 @@
         <option value="C#">C#</option>
         <option value=".Net">ASP.NET</option>
       </select>
+      <span class="text-danger" asp-validation-for="Language"></span>
     </div>
     <div class="form-group">
-      <label for="Comment">Comment (Optional)</label>
+      <label asp-for="Comment">Comment (Optional)</label>
       <br/>
-      <textarea name="Comment" cols="5" rows="5" class="form-control"></textarea>
+      <textarea asp-for="Comment" cols="5" rows="5" class="form-control"></textarea>
+      <span class="text-danger" asp-validation-for="Comment"></span>
     </div>
     <button type="submit" class="btn btn-primary">Submit</button>
   </form>

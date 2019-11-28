@@ -14,7 +14,6 @@ C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\asp.net_core\asp_mvc_two\dojo
 C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\asp.net_core\asp_mvc_two\dojo_survey_with_model\obj\Debug\netcoreapp2.2\dojo_survey_with_model.TagHelpers.input.cache
 C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\asp.net_core\asp_mvc_two\dojo_survey_with_model\obj\Debug\netcoreapp2.2\dojo_survey_with_model.TagHelpers.output.cache
 C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\asp.net_core\asp_mvc_two\dojo_survey_with_model\obj\Debug\netcoreapp2.2\dojo_survey_with_model.RazorCoreGenerate.cache
-C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\asp.net_core\asp_mvc_two\dojo_survey_with_model\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
 C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\asp.net_core\asp_mvc_two\dojo_survey_with_model\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
 C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\asp.net_core\asp_mvc_two\dojo_survey_with_model\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
 C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\asp.net_core\asp_mvc_two\dojo_survey_with_model\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
@@ -28,3 +27,5 @@ C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\asp.net_core\asp_mvc_two\dojo
 C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\asp.net_core\asp_mvc_two\dojo_survey_with_model\obj\Debug\netcoreapp2.2\dojo_survey_with_model.dll
 C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\asp.net_core\asp_mvc_two\dojo_survey_with_model\obj\Debug\netcoreapp2.2\dojo_survey_with_model.pdb
 C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\asp.net_core\asp_mvc_two\dojo_survey_with_model\obj\Debug\netcoreapp2.2\dojo_survey_with_model.csproj.CopyComplete
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\asp.net_core\asp_mvc_two\dojo_survey_with_model\obj\Debug\netcoreapp2.2\Razor\Views\Survey\Result.g.cshtml.cs
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\asp.net_core\asp_mvc_two\dojo_survey_with_model\obj\Debug\netcoreapp2.2\Razor\Views\Survey\Index.g.cshtml.cs

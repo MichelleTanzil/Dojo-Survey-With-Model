@@ -10,7 +10,7 @@ namespace dojo_survey_with_model.Controllers
 {
     public class HomeController : Controller
     {
-        [HttpGet("")]
+
         public IActionResult Index()
         {
             return View();
